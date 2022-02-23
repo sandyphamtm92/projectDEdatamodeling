@@ -1,6 +1,3 @@
-# projectDEdatamodeling
-data modeling
-
 ## DE Learning path
 ### - Data modeling in SQL
 ### 1. Exercise 1
